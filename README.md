@@ -2,7 +2,7 @@
 
 <video src="https://github.com/user-attachments/assets/0af8447b-ffcd-4fe7-91e4-86b1d565a93f" autoplay loop muted playsinline width="390" align="right"></video>
 
-`rtchart` is a WebRTC room for publishing ad hoc realtime candlestick chart data.
+[`rtchart`](https://rtchart.cloud.esseforma.com) is a WebRTC room for publishing ad hoc realtime candlestick chart data.
 It is intended for quickly sending live numeric streams into a browser-visible
 chart without building a custom dashboard first.
 
